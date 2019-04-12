@@ -1,0 +1,329 @@
+@font-face {
+  font-family: 'Big Noodle Titling';
+  src:url("/fonts/big_noodle_titling.ttf");
+}
+@font-face {
+  font-family: 'Century Gothic';
+  src:url("/fonts/Century_Gothic.ttf");
+}
+body, html{
+    height:100%;
+    background:white !important;
+}
+.another-container{
+    background:url('/img/Calidad_Servicio.jpg'); 
+    background-size:cover; 
+    background-position:center;
+    padding-top:130px; 
+    padding-bottom:130px;
+}
+table tr .spacing{
+    padding:10px 0 10px 20px;
+}
+.inside .row{
+    border-bottom:1px solid white;
+    padding:5px 0;
+    font-size:12px;
+}
+
+.badge-cyan{
+  background: #3490dc;
+}
+.btn-primary{
+  background: #455fa5 !important;
+  border:#455fa5;
+}
+.btn-store, .btn-search{
+  border-top-right-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+}
+
+.input-store, .input-search{
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+
+.full-width{
+  padding: 0 !important;
+}
+.form-store{
+  margin-top: 20px;
+}
+.store-row{
+}
+.store-column{
+  padding:20px 50px;
+}
+.store-column .col-md-3{
+    padding:5px;
+}
+.nav-link:hover{
+  color: rgb(18, 93, 205) !important;
+}
+body{
+  font-family: 'Century Gothic', arial;
+  font-size: 15px;
+  color: #777 !important;
+  margin: 0;
+  padding: 0;
+}
+#app{
+  margin: 0;
+  padding: 0;
+}
+h2{
+  font-weight: 900;
+}
+.margin-bottom-20{
+  margin-bottom: 20px;
+}
+.selectTwo{
+  width: 100%;
+}
+.card-header{
+  font-family: 'Big Noodle Titling', sans-serif;
+  letter-spacing: 0.1em;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+
+.nav-item{
+  font-family: 'Century Gothic', sans-serif;
+}
+label{
+  font-weight: 600;
+}
+.Grid-Layout{
+  display:grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 30px;
+}
+.Grid-Item{
+  transition: 0.5s;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border:none;
+}
+.Grid-Item.card{
+  background:transparent !important;
+}
+.Grid-Item:hover{
+  transition: 0.5s;
+  box-shadow: 10px 10px 36px -10px rgba(0,0,0,0.58);
+}
+
+.card-cart{
+  color:black;
+  text-decoration: none;
+}
+.card-cart:hover{
+  text-decoration: none;
+  color: black;
+}
+.register .form-control{
+  background: transparent;
+  border: transparent;
+  border-bottom: 1px solid white;
+  border-radius:0;
+  color: white;
+}
+.register .form-control::placeholder{
+  color: white;
+}
+.register .form-control option{
+  color: black;
+}
+.half-2{
+  background:url('/img/completar-registro.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color:white;
+  padding:45px;
+}
+.half-1{
+  background:url('/img/Calidad_Servicio.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.height-100{
+  height: inherit;
+}
+.full-height{
+  height: 97.9vh;
+}
+.login{
+  margin-bottom:50px;
+}
+.btn-blue{
+  background: #3490dc !important;
+  border: #3490dc !important;
+  padding: 10px 30px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+.register-btn{
+    padding: 10px 80px;
+}
+.logo{
+  margin-bottom: 60px;
+}
+.title-landing{
+  font-size:45px;
+}
+.pagination .page-link{
+  color:#455fa5;
+}
+.pagination .active .page-link{
+  background: #455fa5 !important;
+  border:#455fa5;
+  color: white;
+}
+.btn-cart{
+    color:white;
+    border-color:white;
+    transition:0.5s;
+}
+.btn-cart:hover{
+    cursor:pointer;
+    transform:scale(1.1);
+    color:white;
+    transition:0.5s;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin-left:auto;
+  margin-right:auto;
+  left:30%;
+  
+}
+.dropdown-content a {
+  color: black;
+  padding: 4px 10px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+.modal-container{
+  display:none;
+  position: absolute; /* Stay in place */
+  z-index: 100000; /* Sit on top */
+  left: 0;
+  top: 0;
+  width:100%;
+  height:100%;
+}
+.modal-content {
+  background-color: #fefefe;
+  margin: auto; /* 15% from the top and centered */
+  padding: 20px;
+  width: 300px; /* Could be more or less, depending on screen size */
+  box-shadow: 3px 4px 37px -2px rgba(0,0,0,0.25);
+}
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+h1.marcas-representadas{
+    font-size:50px; 
+    text-transform:uppercase; 
+    font-weight:900; 
+    color:white;
+}
+.card-producto{
+    height:auto;
+    width: 17.5rem;
+}
+@media screen and (max-width: 900px) {
+.marcas-representadas{
+        font-size:30px !important; 
+
+}.card-producto{
+    width:16rem;
+}
+
+  .store-column{
+    padding:25px 50px;
+  }
+  .logo{
+    width: 200px;
+  }
+  .title-landing{
+    font-size: 20px;
+    margin-bottom: 100px;
+  }
+  .half-2{
+    padding: 50px;
+  }
+  .menu-store{
+      display:none;
+  }
+}
+@media screen and (max-width: 600px) {
+       .admin-table {
+           width:100%;
+           border: 1px solid #dee2e6;
+           margin-top: 10px;
+       }
+       .admin-table thead {
+           display: none;
+       }
+       .admin-table tr:nth-of-type(2n) {
+           background-color: inherit;
+       }
+       .admin-table tbody td {
+           display: block;
+       }
+       .card-producto{
+         height:auto;
+        width: 17.5rem;
+        }
+    }
+@media screen and (max-width:800px){
+           .half-1{
+        display:none;
+        }
+        .full-height{
+        height:auto;
+        }
+}
+@media screen and (max-width: 900px) {
+      .Grid-Layout{
+        grid-template-columns:98% !important;
+        margin: auto;
+      }
+      .Grid-Item{
+        height: 150px;
+      }
+}
+

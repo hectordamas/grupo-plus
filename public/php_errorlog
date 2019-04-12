@@ -1,0 +1,446 @@
+[13-Feb-2019 10:15:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:15:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:15:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:16:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:16:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:16:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:16:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:16:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:16:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:16:35 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:16:35 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:16:35 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:16:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:18:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:18:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:18:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:18:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:18:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:18:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:18:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:18:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:18:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:19:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:19:45 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:19:45 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:19:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:19:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:20:00 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:21:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:21:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:21:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:21:53 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:21:53 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:21:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:22:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:22:56 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:22:56 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:23:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:23:51 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:23:51 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:24:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:24:26 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:24:26 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:24:35 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:26:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:26:23 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:26:23 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:26:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:26:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:26:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:26:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:26:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:27:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:27:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:27:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:29:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:29:14 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:29:14 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:29:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:29:22 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:29:22 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:29:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:11 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:30:11 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:30:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:25 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:30:25 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:30:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:30:55 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:30:55 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:30:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:33:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:33:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:33:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:33:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:33:47 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:33:47 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:33:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:34:00 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:34:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:29 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:35:29 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:35:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:36:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:36:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:37:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:38:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:38:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:38:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:39:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:39:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:39:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:39:53 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:39:53 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:39:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:40:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:40:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:43:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:48:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:48:36 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:48:36 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:48:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:48:58 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:48:58 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:48:59 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:48:59 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:48:59 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:49:00 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:49:00 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:49:00 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:50:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:50:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:50:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:50:59 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:51:05 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:51:05 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:51:05 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:51:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:51:14 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:51:14 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:51:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:51:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:51:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:51:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:55:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:55:55 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:55:55 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:56:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:57:06 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 10:57:06 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:57:06 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 10:57:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:04:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:05:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:05:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:05:53 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:05:53 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:05:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:06:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:06:44 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:06:44 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:06:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:06:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:08:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:08:14 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:08:14 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:19:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:19:59 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:19:59 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:19:59 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:03 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:20:03 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:03 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:20:23 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:23 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:20:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:20:29 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:29 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:20:31 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:31 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:20:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:20:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:21:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:21:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:27:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:29:03 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:29:03 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:29:03 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:31:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:31:22 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:31:22 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:31:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:31:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:32:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:32:18 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:32:18 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:32:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:21 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:35:21 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:35:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:38 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:35:38 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:35:41 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:35:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:36:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:36:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:37:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:37:28 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:37:28 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:38:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:38:13 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:38:13 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:41:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:41:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:41:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:41:37 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:37 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:41:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:41:54 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:54 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:41:55 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:41:55 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:42:00 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:42:03 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:42:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:42:05 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:42:06 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:42:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:42:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:43:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:43:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:45:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:45:04 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:45:04 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:45:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:45:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:45:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:45:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:49:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:49:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:49:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:49:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:49:34 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:49:34 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:49:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:49:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:51:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:51:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:52:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:52:10 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:52:10 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:54:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:58:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:59:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 11:59:51 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:59:51 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 11:59:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:02:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:02:52 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:02:52 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:02:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:06:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:06:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:09:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:11:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:15:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:15:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:15:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:16:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:16:54 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:16:54 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:17:03 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:17:03 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:17:03 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:20:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:20:20 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:20:20 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:20:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:20:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:20:45 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:20:45 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:21:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:21:11 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:21:11 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:21:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:21:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:22:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:24:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:24:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:24:17 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:24:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:25:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:25:09 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:25:09 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:26:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:26:46 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:26:46 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:29:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:30:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:31:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:31:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:31:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:31:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:31:10 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:31:10 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:31:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:31:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:31:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:06 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:06 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:06 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:16 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:16 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:51 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:51 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:33:54 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:33:54 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:34:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:34:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:34:33 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:36:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:36:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:39:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:42:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:42:15 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:42:15 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:45:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:47:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:47:30 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:47:30 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:48:06 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:48:06 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:48:06 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:48:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:48:25 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:48:25 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:48:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:51:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:51:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:56:35 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:57:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:57:04 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:57:04 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:57:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:59:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 12:59:02 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:59:02 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 12:59:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:04:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:04:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:04:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:04:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:06:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:06:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:10:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:10:27 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:10:27 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:10:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:10:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:21:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:21:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:23:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:25:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:25:13 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:25:13 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:25:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:28:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:30:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:30:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:30:07 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:30:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:30:46 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:30:46 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:30:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:30:47 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:30:47 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:34:00 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:34:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:35:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:35:40 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:35:40 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:36:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:36:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:36:01 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:36:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:36:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:36:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:36:24 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:36:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:36:26 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:36:26 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:36:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:36:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:36:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:37:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[13-Feb-2019 13:37:42 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:37:42 CST6CDT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Feb-2019 13:38:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/pascualt/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[21-Feb-2019 11:55:43 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 11:55:46 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 11:59:40 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 11:59:43 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 11:59:45 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 11:59:54 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:00:23 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:00:30 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:01:02 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:07:13 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:08:06 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:09:03 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:09:18 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:09:30 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Feb-2019 12:09:39 CST6CDT] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 20480 bytes) in /home/pascualt/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
